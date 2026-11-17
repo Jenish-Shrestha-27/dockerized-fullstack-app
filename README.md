@@ -204,7 +204,7 @@ This project is part of my hands-on DevOps learning journey. Through building it
 
 **Jenish Shrestha**
 
-BSc CSIT Student | Full-Stack Developer | Learning DevOps
+
 
 - GitHub: [@Jenish-Shrestha-27](https://github.com/Jenish-Shrestha-27)
 - Project: [Dockerized Full-Stack Application](https://github.com/Jenish-Shrestha-27/dockerized-fullstack-app)
