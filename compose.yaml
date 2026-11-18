@@ -22,7 +22,7 @@ services:
     image: jenishshrestha27/project-backend:latest
     build:
       context: ./backend
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile.multistage
     container_name: project-backend
     restart: unless-stopped
     env_file:
@@ -39,7 +39,7 @@ services:
     image: jenishshrestha27/project-frontend:latest
     build:
       context: ./next-ui
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile.multistage
     container_name: project-frontend
     restart: unless-stopped
     ports:
